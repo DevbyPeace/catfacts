@@ -1,13 +1,4 @@
-// console.log("run");
-// const request = new XMLHttpRequest();
-// request.open("GET", `https://catfact.ninja/fact`);
-// request.send();
 
-// request.addEventListener("load", function () {
-//   const fact = JSON.parse(request.responseText);
-// //   console.log(request);
-//   console.log(fact);
-// });
 const button = document.querySelector(".change-btn");
 const factDisp = document.querySelector(".random-fact");
 
